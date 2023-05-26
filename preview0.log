@@ -1,0 +1,14 @@
+0: [Con] Init SDL_Net... 
+0: [Con] ok
+0: [Con] Establishing IPC connection to tcp 127.0.0.1:50157 
+0: [Con] ok
+0: [Cmd] seed {5331a1c1-bb07-484e-b97e-48823c9d7e4d}
+0: [Cmd] $template_filter 4
+0: [Cmd] $mapgen 0
+0: [Cmd] $feature_size 10
+0: Ping? Pong!
+0: [Con] Generating preview...
+0: [Con] Selected template #45 using filter #4
+0: [Con] Sending preview...
+0: [Con] Preview sent, disconnect
+halt at 0 ticks. TurnTimeLeft = 0
